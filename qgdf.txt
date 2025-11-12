@@ -2017,7 +2017,7 @@ CCTV16 4k(试看),http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000
 CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 活动直播2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000100549/main.m3u8?stbid=
 
-秒换台450.31,#genre#
+秒换台604.71,#genre#
 CCTV1,http://124.114.57.188:9901/tsfile/live/0001_1.m3u8
 CCTV3,http://124.114.57.188:9901/tsfile/live/0003_1.m3u8
 CCTV4,http://124.114.57.188:9901/tsfile/live/0004_1.m3u8
@@ -2038,7 +2038,7 @@ CCTV15,http://124.114.57.188:9901/tsfile/live/0015_1.m3u8
 贵州卫视,http://124.114.57.188:9901/tsfile/live/0120_1.m3u8
 宁夏卫视,http://124.114.57.188:9901/tsfile/live/0112_1.m3u8
 陕西一套,http://124.114.57.188:9901/tsfile/live/0135_1.m3u8
-秒换台580.62,#genre#
+秒换台878.31,#genre#
 CCTV1,http://220.170.241.204:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://220.170.241.204:9901/tsfile/live/0002_1.m3u8
 CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
